@@ -1,0 +1,21 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+ name: order-deployment
+ labels:
+  app: order
+spec:
+ replicas: 1
+ selector:
+  matchLabels: 
+   service: order
+ template:
+  metadata:
+   labels:
+    service: order
+  spec:
+   containers:
+   - name: order
+     image: aquibchiniwala/orderservicejaeger
+     ports:
+     - containerPort: 80

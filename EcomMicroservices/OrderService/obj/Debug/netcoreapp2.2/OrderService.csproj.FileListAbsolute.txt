@@ -1,0 +1,27 @@
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.AssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.deps.json
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.runtimeconfig.json
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.runtimeconfig.dev.json
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.dll
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.pdb
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.dll
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.pdb
+D:\NAGP\advance microservices\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.csprojAssemblyReference.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.deps.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.runtimeconfig.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.runtimeconfig.dev.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\bin\Debug\netcoreapp2.2\OrderService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.AssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\OrderService\obj\Debug\netcoreapp2.2\OrderService.pdb

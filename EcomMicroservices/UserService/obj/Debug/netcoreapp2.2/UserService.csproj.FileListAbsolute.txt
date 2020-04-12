@@ -1,0 +1,27 @@
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.AssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.deps.json
+D:\NAGP\advance microservices\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.runtimeconfig.json
+D:\NAGP\advance microservices\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.runtimeconfig.dev.json
+D:\NAGP\advance microservices\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.dll
+D:\NAGP\advance microservices\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.pdb
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.dll
+D:\NAGP\advance microservices\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.deps.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.runtimeconfig.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.runtimeconfig.dev.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\bin\Debug\netcoreapp2.2\UserService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.AssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\UserService\obj\Debug\netcoreapp2.2\UserService.csprojAssemblyReference.cache

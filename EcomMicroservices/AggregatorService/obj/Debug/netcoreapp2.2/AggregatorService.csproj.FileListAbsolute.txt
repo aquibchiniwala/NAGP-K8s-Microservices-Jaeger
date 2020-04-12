@@ -1,0 +1,26 @@
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.AssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.deps.json
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.runtimeconfig.json
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.runtimeconfig.dev.json
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.dll
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.pdb
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.dll
+D:\NAGP\advance microservices\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.deps.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.runtimeconfig.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.runtimeconfig.dev.json
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\bin\Debug\netcoreapp2.2\AggregatorService.pdb
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.csproj.CoreCompileInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorAssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.AssemblyInfoInputs.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.AssemblyInfo.cs
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.RazorTargetAssemblyInfo.cache
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.dll
+D:\NAGP\advance microservices - 2\Assignment\EcomMicroservices\AggregatorService\obj\Debug\netcoreapp2.2\AggregatorService.pdb

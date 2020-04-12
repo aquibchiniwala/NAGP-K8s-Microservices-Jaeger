@@ -1,0 +1,21 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+ name: aggregator-deployment
+ labels:
+  app: aggregator
+spec:
+ replicas: 1
+ selector:
+  matchLabels: 
+   service: aggregator
+ template:
+  metadata:
+   labels:
+    service: aggregator
+  spec:
+   containers:
+   - name: aggregator
+     image: aquibchiniwala/aggregatorservicejaeger
+     ports:
+     - containerPort: 80
